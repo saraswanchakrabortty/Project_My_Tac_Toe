@@ -39,6 +39,10 @@ footer{
    color: #e5c7e5;
 }
 
+.footer-text{
+    font-family: monospace;
+}
+
 .gameContainer{
     display: flex;
     justify-content: center;
